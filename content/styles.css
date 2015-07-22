@@ -1,0 +1,50 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Git\/bethstival\/content\/styles\.scss}line{font-family:\000034}}
+body {
+  margin: 0;
+  padding: 100vh 0 0 0;
+  font-family: Oswald, sans-serif;
+  font-weight: 300; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Git\/bethstival\/content\/styles\.scss}line{font-family:\0000313}}
+header {
+  height: 100vh;
+  background-image: url("img/bg.jpg");
+  background-size: cover;
+  background-position: center center;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: -1; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Git\/bethstival\/content\/styles\.scss}line{font-family:\0000326}}
+  header h1 {
+    margin: 0;
+    padding: 0;
+    color: #eeeeee;
+    line-height: 100vh;
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 0 0 10vmin #1e1e1e;
+    font-family: 'Medula One', sans-serif;
+    font-size: 25vmin;
+    font-weight: normal; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Git\/bethstival\/content\/styles\.scss}line{font-family:\0000344}}
+footer {
+  background-color: #1e1e1e;
+  color: #eeeeee;
+  text-align: center;
+  line-height: 2rem; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Git\/bethstival\/content\/styles\.scss}line{font-family:\0000351}}
+a {
+  color: inherit;
+  text-decoration: none;
+  opacity: 0.75; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Git\/bethstival\/content\/styles\.scss}line{font-family:\0000355}}
+  a:hover {
+    opacity: 1;
+    text-decoration: underline; }
+
+/*# sourceMappingURL=styles.css.map */
