@@ -25,7 +25,7 @@ header {
     line-height: 100vh;
     text-align: center;
     text-transform: uppercase;
-    text-shadow: 0 0 10vmin #1e1e1e;
+    text-shadow: 0 0 5vmin #1e1e1e;
     font-family: 'Medula One', sans-serif;
     font-size: 25vmin;
     font-weight: normal; }
